@@ -1,1 +1,1 @@
-# resume-pane
+# .Jibe
